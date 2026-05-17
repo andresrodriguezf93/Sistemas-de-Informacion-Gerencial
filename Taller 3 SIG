@@ -1,1 +1,23 @@
+A continuación, comparto el enlace directo al informe interactivo diseñado en Looker Studio:
 
+https://datastudio.google.com/reporting/4c513d6e-c8f2-4606-a1ad-27bca66fe902
+
+Asimismo, adjunto el desarrollo de la Fase 4 con las conclusiones del analista solicitadas en la guía:
+
+Identifique las 3 ciudades colombianas con menor flujo de extranjeros. ¿Qué estrategia de optimización de infraestructura sugeriría?
+Respuesta: Las ciudades con menor flujo de extranjeros registrados corresponden a capitales y zonas de departamentos periféricos o apartados como Mitú, Inírida o San José del Guaviare.
+Estrategia: Se sugiere mejorar la infraestructura de los aeropuertos regionales optimizando pistas y manejo de equipaje, además de subsidiar rutas aéreas comerciales clave para abaratar costos de acceso.
+
+¿Existe algún patrón de meses específicos donde el flujo caiga drásticamente? (Análisis de cuellos de botella).
+Respuesta: Al observar el gráfico de meses, las caídas más drásticas de flujo ocurren en los meses de Junio y Octubre.
+Análisis: Esto representa un cuello de botella de demanda por temporada baja que deja hoteles y transporte con capacidad ociosa. Se recomienda aprovechar estos meses para hacer mantenimientos grandes de infraestructura turística o lanzar eventos locales corporativos para atraer público.
+
+Explique por qué esta herramienta es más eficiente que Excel para un Gerente de Operaciones que debe revisar datos a diario.
+Respuesta: Esta herramienta es más eficiente por tres razones operativas: Primero, por Automatización, ya que se conecta directo a la base de datos y el gerente ve el dato actualizado del día sin esperar a que un analista arme tablas dinámicas manualmente. Segundo, por Autonomía, debido a que el gerente puede usar los filtros de fechas y departamentos por sí mismo sin riesgo de dañar las fórmulas del reporte. Tercero, por Rendimiento, dado que soporta miles de datos en la nube de forma rápida mientras que Excel se congela o se vuelve lento con archivos pesados.
+
+Quedo atento a sus comentarios.
+
+Atentamente,
+
+Andres Felipe Fonseca Rodriguez
+Código: 81796
